@@ -1,6 +1,12 @@
 # GEOAIRS
 This repository for Geoinformatics Earth Observation Artificial Intelligence Remote Sensing
 GEOAIRS is an open-source Python library for processing UAV imagery, satellite data, GIS layers, and geospatial AI models.
+
+
+<p align="center">
+  <img src="https://github.com/thapawan/GEOAIRS/blob/main/Photos/lab.jpg"
+</p>
+  
 🛰️ Remote Sensing
 
 Satellite imagery processing
